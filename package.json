@@ -18,11 +18,10 @@
         "compute-cluster": "*",
         "express": "3.0.1",
         "express-validator": "0.3.x",
-        "imagemagick": "*",
         "jade": ">= 0.0.1",
         "underscore": "*"
     },
-    "main": "./lib/index.js",
+    "main": "./lib/app.js",
     "engines": {
         "node": ">= 0.8.8"
     }
